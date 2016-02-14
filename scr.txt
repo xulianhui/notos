@@ -1,0 +1,11 @@
+AAA
+AAB
+AAC
+# AAD 4 7
+BBA
+BBB
+$ 10
+CCA
+CCB
+$10
+DDD

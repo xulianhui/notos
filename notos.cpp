@@ -30,6 +30,7 @@ int main () {
             printf ("Load  the game...\n");
         } else if (MainMenu_Cho == "2") {
             printf ("Start new game...\n");
+            New_Game();
         } else if (MainMenu_Cho == "0") {
             printf ("Quit  the game...\n");
             Exit(Flag_Exit);

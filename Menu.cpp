@@ -1,4 +1,6 @@
+#include "staxc.h"
 #include "Menu.h"
+#include "Game.h"
 
 void Show_MainMenu () {
     printf ("=================\n");
@@ -38,4 +40,8 @@ void Exit (bool& Flag_Exit) {
     printf ("=================\n");
     
     Flag_Exit = true;
+}
+
+void New_Game () {
+    Run_Game (0);
 }
