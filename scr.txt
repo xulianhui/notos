@@ -1,11 +1,11 @@
 AAA
 AAB
 AAC
-# AAD 4 7
+# B 5 C 8
 BBA
 BBB
-$ 10
+$ 11
 CCA
 CCB
-$10
+$ 11
 DDD

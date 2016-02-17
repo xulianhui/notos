@@ -24,7 +24,6 @@ int main () {
             } 
         } while(Flag_Cho);
         
-        cout << MainMenu_Cho << endl;
         
         if (MainMenu_Cho == "1") {
             printf ("Load  the game...\n");
